@@ -20,7 +20,8 @@ mpl.rc('font',size=10)
 
 df=pd.DataFrame(np.loadtxt('等高线.txt'))
 df=df.reset_index()
-
+map_df=pd.melt(df,id_vars='index',var_name='var',value_name='value')
+map_df['var']=map_df['var'].astype(int)
 
 ngridx = 100
 ngridy = 200
