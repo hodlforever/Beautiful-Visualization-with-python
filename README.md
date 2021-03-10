@@ -9,6 +9,9 @@
 本书所用python版本为：3.7.1；图表绘制包matplotlib、seaborn、plotnine、geoplot和geopandas的版本分别为：3.0.2、0.9.0、0.5.1、0.3.2和0.4.1；数据处理包numpy和pandas的版本分别为：1.15.4和0.23.4。
 python作为免费的开源软件，数据分析与可视化的包更新迭代很快，这是它的优势。但是有时候有些代码运行可能会由于python及其包版本的更新，而出现函数弃用（deprecated）的情况。此时，需要自己更新代码，使用新的函数替代原有的函数。
 
+京东购买地址：https://item.jd.com/12829246.html
+当当购买地址：http://product.dangdang.com/28527228.html
+
 ---
 ### 如有问题，可以联系本书作者-张杰微信：EasyCharts
 <p>
