@@ -26,9 +26,9 @@ python作为免费的开源软件，数据分析与可视化的包更新迭代�
 </p>
 
 
-## Citation
+## 引用
 
-If you find the paper useful for your work,  please consider citing our book: 
+如果这本书对你的科研图表绘制有用，也可引用该书：
 
 ```
 @book{zhang2020Python,
