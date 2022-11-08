@@ -25,3 +25,16 @@ python作为免费的开源软件，数据分析与可视化的包更新迭代�
     <img src="https://github.com/Easy-Shu/EasyShu-WeChat/blob/master/WeChat.jpg" alt="微信公众号"  width="250" height="250">
 </p>
 
+
+## Citation
+
+If you find the paper useful for your work,  please consider citing our book: 
+
+```
+@book{zhang2020Python,
+  title={Beautiful Data Visualization with Python-How to Make Professional Charts},
+  author={Jie Zhang},
+  year={2020},
+  publisher={Publishing House of Electronic Industry}
+}
+```
