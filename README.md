@@ -32,7 +32,7 @@ python作为免费的开源软件，数据分析与可视化的包更新迭代�
 
 ```
 @book{zhang2020Python,
-  title={Beautiful Data Visualization with Python-How to Make Professional Charts},
+  title={Beautiful Data Visualization with {Python}-How to Make Professional Charts},
   author={Jie Zhang},
   year={2020},
   publisher={Publishing House of Electronic Industry}
